@@ -6,9 +6,9 @@ const users = [
 ];
 
 const hospitals = [
-  { id: "H001", h_name: "Negombo General Hospital", city: "Negombo" },
-  { id: "H002", h_name: "Colombo National Hospital", city: "Colombo" },
-  { id: "H003", h_name: "Kandy Teaching Hospital", city: "Kandy" }
+  { id: "H001", name: "Negombo General Hospital", city: "Negombo" },
+  { id: "H002", name: "Colombo National Hospital", city: "Colombo" },
+  { id: "H003", name: "Kandy Teaching Hospital", city: "Kandy" }
 ];
 
 const patients = [
